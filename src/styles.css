@@ -90,3 +90,22 @@ header .nav-btn {
 		text-decoration: none;
 	}
 }
+
+.footer {
+	margin: 0;
+	display: flex;
+}
+
+footer nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1rem;
+	background-color: var(--dark);
+	color: rgb(0, 0, 0);
+	height: 5vh;
+}
+
+footer nav a {
+	color: var(--mid);
+}
