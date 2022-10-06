@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.3ff8c223.css",
+    "main.js": "/personal-portfolio/static/js/main.cff1bbf4.js",
+    "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/martin-shreder-5Xwaj9gaR0g-unsplash.jpg": "/personal-portfolio/static/media/martin-shreder-5Xwaj9gaR0g-unsplash.720469d460e9b0a5d43a.jpg",
+    "static/media/markus-spiske-tT3sKoUxLJA-unsplash.jpg": "/personal-portfolio/static/media/markus-spiske-tT3sKoUxLJA-unsplash.14f91933f9661fb8700f.jpg",
+    "static/media/that-s-her-business-R4sP8_Bq0Bw-unsplash.jpg": "/personal-portfolio/static/media/that-s-her-business-R4sP8_Bq0Bw-unsplash.3d96904c08f4f373ef49.jpg",
+    "static/media/towfiqu-barbhuiya-3g26gniC_l0-unsplash.jpg": "/personal-portfolio/static/media/towfiqu-barbhuiya-3g26gniC_l0-unsplash.2746b5862ae5adbe1f22.jpg",
+    "static/media/andrew-neel-cckf4TsHAuw-unsplash.jpg": "/personal-portfolio/static/media/andrew-neel-cckf4TsHAuw-unsplash.e6711d40722f5051c43f.jpg",
+    "static/media/andrey-metelev-DEuansgqjns-unsplash (1).jpg": "/personal-portfolio/static/media/andrey-metelev-DEuansgqjns-unsplash (1).05473e86b0eeae86b363.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.3ff8c223.css.map": "/personal-portfolio/static/css/main.3ff8c223.css.map",
+    "main.cff1bbf4.js.map": "/personal-portfolio/static/js/main.cff1bbf4.js.map",
+    "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ff8c223.css",
+    "static/js/main.cff1bbf4.js"
+  ]
+}
