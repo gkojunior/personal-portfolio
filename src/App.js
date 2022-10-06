@@ -1,12 +1,14 @@
 import NavBar from './Components/NavBar';
+import Main from './Components/Main';
 import Footer from './Components/Footer';
 import './styles.css';
 
 function App() {
+
 	return (
 		<>
 			<NavBar />
-			{/* Create a <Main/ > */}
+			<Main />
 			<Footer />
 		</>
 	);
