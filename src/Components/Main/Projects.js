@@ -12,7 +12,7 @@ const Projects = () => {
 			title: 'Todo List (React)',
 			description: 'Create a todo list',
 			coverImage: image4,
-			link: 'https://github.com/gkojunior/ctd-react-albatross',
+			link: 'https://gkojunior.github.io/ctd-react-albatross/',
 		},
 		{
 			id: 1,
