@@ -14,7 +14,6 @@ const Main = () => {
 			<Projects />
 			<Skills />
 			<ContactMe userMessage={userMessage} setuserMessages={setuserMessages} />
-			<h2>Messages</h2>
 			<div>
 				<ul className='message_flexbox_container'>
 					{userMessage.map((item, index) => {

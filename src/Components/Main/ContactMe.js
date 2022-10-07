@@ -74,7 +74,7 @@ const ContactMe = ({ setMessages, setuserMessages }) => {
 					type='text'
 					onChange={handleChange}
 					value={message}></textarea>
-				<button type='submit' className='button'>
+				<button type='submit' className='contactButton'>
 					Submit
 				</button>
 			</form>

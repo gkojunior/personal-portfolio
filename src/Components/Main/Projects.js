@@ -4,6 +4,8 @@ import image2 from '../../images/andrew-neel-cckf4TsHAuw-unsplash.jpg';
 import image3 from '../../images/markus-spiske-tT3sKoUxLJA-unsplash.jpg';
 import image4 from '../../images/that-s-her-business-R4sP8_Bq0Bw-unsplash.jpg';
 import image5 from '../../images/towfiqu-barbhuiya-3g26gniC_l0-unsplash.jpg';
+import image6 from '../../images/lily-banse--YHSwy6uqvk-unsplash.jpg';
+import image7 from '../../images/erik-mclean-C3T8KTZxTFM-unsplash.jpg'
 
 const Projects = () => {
 	const projects = [
@@ -21,30 +23,37 @@ const Projects = () => {
 			coverImage: image2,
 			link: 'https://github.com/gkojunior/hacker-stories',
 		},
-
 		{
 			id: 2,
+			title: 'Food Order (React)',
+			description: 'Order some Ghanian Food',
+			coverImage: image6,
+			link: 'https://github.com/gkojunior/food-order-app',
+		},
+
+		{
+			id: 3,
 			title: 'Porfolio (JavaScript)',
 			description: 'My first portfolio using JS!',
 			coverImage: image3,
 			link: 'https://github.com/gkojunior/intro-to-programming-asteroid',
 		},
 		{
-			id: 3,
+			id: 4,
 			title: 'Number Guessing Game (React)',
 			description: 'Guessing game!',
 			coverImage: image,
 			link: 'https://github.com/gkojunior/ctd-react-numberGuessingAssignment',
 		},
 		{
-			id: 4,
+			id: 5,
 			title: 'Guessing Game (JavaScript)',
 			description: 'Guessing game!',
-			coverImage: image,
+			coverImage: image7,
 			link: 'https://github.com/gkojunior/intro-to-programming-section-5-Guessing-Game',
 		},
 		{
-			id: 5,
+			id: 6,
 			title: 'Title Coming Soon (Ruby)',
 			description: 'Coming Soon',
 			coverImage: image5,

@@ -8,7 +8,7 @@ const AboutMe = () => {
 					leverages my educational background, knowledge, skill set, and passion
 					for software development to add value to a business and contribute to
 					organizational operations.
-					<a className='button' href='#projects'>
+					<a className='greetingButton' href='#projects'>
 						See my projects
 					</a>
 				</h1>
