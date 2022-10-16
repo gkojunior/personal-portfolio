@@ -1,7 +1,7 @@
 const AboutMe = () => {
 	return (
-		<section id='aboutMe'>
-			<div>
+		<section id='aboutMe' >
+			<div className="aboutSection">
 				<h1 className='greeting'>
 					Hi! My name is George, a software developer. I am an aspiring
 					web/mobile developer seeking an entry level engineering position that
